@@ -12,6 +12,7 @@ typora-root-url: ../../blog
 原来使用hugo做静态blog框架，但hugo框架要发布到github pages前，还需要用hugo构建一把，我比较懒，这一步都不想做。
 
 
+
 ## 使用hugo框架
 
 在选择blog框架时，因为不想再本机安装过多的框架依赖，所以没有选择jekyll这类框架。而我是个golang开发者，本机已有golang相关环境，自然就看上了同样是使用golang的hugo。
