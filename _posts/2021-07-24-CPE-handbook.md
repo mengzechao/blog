@@ -8,7 +8,9 @@ excerpt: "翻译官方CPE-handbook"
 mathjax: true
 ---
 
-# 如何获取CISSP CPE
+* content
+{:toc}
+
 
 _*本文内容大部分翻译自ISC2官方《CPE-handbook》*_
 

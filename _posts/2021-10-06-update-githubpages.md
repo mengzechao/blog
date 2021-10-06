@@ -9,6 +9,10 @@ mathjax: true
 typora-root-url: ../../blog
 ---
 
+* content
+{:toc}
+
+
 原来使用hugo做静态blog框架，但hugo框架要发布到github pages前，还需要用hugo构建一把，我比较懒，这一步都不想做。
 
 
