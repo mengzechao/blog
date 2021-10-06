@@ -69,3 +69,12 @@ baseurl: "/tmpfile"
 
 ![image-20211006183855092](/assets/2021-10-06-update-githubpages.assets/image-20211006183855092.png)
 
+但这时相对路径是从仓库根目录的路径，Typora找不到了，怎么办呢？ 要配置一下image root path：
+
+<img src="/assets/2021-10-06-update-githubpages.assets/image-20211006185924617.png" alt="image-20211006185924617" style="zoom:50%;" />
+
+找到本地仓库根目录：
+
+![image-20211006190046973](/assets/2021-10-06-update-githubpages.assets/image-20211006190046973.png)
+
+Done.
