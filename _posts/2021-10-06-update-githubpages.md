@@ -35,11 +35,7 @@ typora-root-url: ../../blog
 
 等等，最初的模板怎么来？github pages帮助里面说，要安装jekyll，然后使用jekyll创建初始模板，再进一步配置themes等。这个我也不想做，而且我不懂前端，装一大堆东西，还不是就用默认配置，自己也不改。 那么是不是直接找个好看模板拿过来改个名字就ok了。
 
-于是我找到了   
-
-[浩阳的blog]: https://gaohaoyang.github.io
-
-, 风格简洁大方，关键元素：主页的文章概览、分类、tag、访问计数、comment都有，就这个了。
+于是我找到了   [浩阳的blog]( https://gaohaoyang.github.io), 风格简洁大方，关键元素：主页的文章概览、分类、tag、访问计数、comment都有，就这个了。
 
 ## 配置的坑
 
