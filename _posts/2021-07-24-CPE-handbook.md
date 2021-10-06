@@ -1,12 +1,11 @@
 ---
-title: "如何获取CISSP CPE"
-weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+layout: post
+title:  "如何获取CISSP CPE"
+date:   2021-07-24 19:28:00
+categories: Learning
+tags: CISSP
+excerpt: "翻译官方CPE-handbook"
+mathjax: true
 ---
 
 # 如何获取CISSP CPE

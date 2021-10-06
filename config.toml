@@ -1,7 +1,0 @@
-baseURL = "https://blog.zechao.cc/"
-languageCode = "en-zh"
-title = "Little Security"
-theme = "book" 
-
-[blackfriday]
-  extensions = ["hardLineBreak"]
